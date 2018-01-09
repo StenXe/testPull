@@ -1,3 +1,1 @@
-import serial
-
-print "Python"
+print "Hello World!"
